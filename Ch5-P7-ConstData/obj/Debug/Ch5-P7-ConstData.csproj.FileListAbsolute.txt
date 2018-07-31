@@ -5,3 +5,10 @@ C:\Users\Ammar Shaukat\Documents\Projects\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\
 C:\Users\Ammar Shaukat\Documents\Projects\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.csproj.CoreCompileInputs.cache
 C:\Users\Ammar Shaukat\Documents\Projects\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.exe
 C:\Users\Ammar Shaukat\Documents\Projects\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\bin\Debug\Ch5-P7-ConstData.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\bin\Debug\Ch5-P7-ConstData.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\bin\Debug\Ch5-P7-ConstData.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch5-P7-ConstData\Ch5-P7-ConstData\obj\Debug\Ch5-P7-ConstData.pdb
